@@ -42,4 +42,27 @@
 	show all of list's item s 
 
 
-####
+### pop_back
+	give name of list and delete last value of list
+
+### top
+	give name of list and return last value of list in EBX register
+
+
+### delete
+	give name of list and index to delete and delete that index 
+
+### ave
+  give name of list and return average of  values of list in EBX register
+;
+;			min:		give name of list and return minimum value of list in EBX register
+;
+;			max:		give name of list and return maximum value of list in EBX register
+;
+;			sum:		give name of list and return sum value of list in EBX register
+;
+;			QuickSort:	give name of list and sorts list with quick sort alghorithm
+;
+;			in_sort:	give name of list and sorts list with insertion sort alghorithm
+;
+;			BubbleSort:	give name of list and sorts list with bubble sort alghorithm
